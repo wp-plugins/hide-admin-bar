@@ -20,5 +20,8 @@ Hides the Admin Bar in WordPress 3.1, credits to <a href="http://yoast.com/disab
 
 == Changelog ==
 
+= 0.2 =
+* Removed portion of code per Pete Mall http://twitter.com/petemall/status/41525105561579520
+
 = 0.1 =
 * Initial release.
