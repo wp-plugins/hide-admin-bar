@@ -1,16 +1,16 @@
 === Hide Admin Bar ===
 Contributors: sdenike
-Donate link: http://www.878studios.com/
+Donate link: http://www.fauxzen.com/
 Tags: admin
 Requires at least: 3.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: trunk
 
-Simple plugin used to remove the Admin Bar in WordPress 3.1
+Simple plugin used to remove the Admin Bar in WordPress 3.1+
 
 == Description ==
 
-Hides the Admin Bar in WordPress 3.1, credits to <a href="http://yoast.com/disable-wp-admin-bar/">Yoast</a>, and <a href="http://developersmind.com/2011/02/23/disable-admin-bar-and-hide-preferences/">Pete Mall</a>.
+Hides the Admin Bar in WordPress 3.1+, credits to <a href="http://yoast.com/disable-wp-admin-bar/">Yoast</a>, and <a href="http://developersmind.com/2011/02/23/disable-admin-bar-and-hide-preferences/">Pete Mall</a>.
 
 == Installation ==
 
@@ -19,6 +19,11 @@ Hides the Admin Bar in WordPress 3.1, credits to <a href="http://yoast.com/disab
 3. Enjoy!, there are no settings for this.
 
 == Changelog ==
+
+= 0.2.1 =
+* Removed unneeded whitespace
+* Changed WordPress compatibility version
+* Changed author URL
 
 = 0.2 =
 * Removed portion of code per Pete Mall http://twitter.com/petemall/status/41525105561579520
