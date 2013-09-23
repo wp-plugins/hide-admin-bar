@@ -14,11 +14,15 @@ Hides the Admin Bar in WordPress 3.1+, credits to <a href="http://yoast.com/disa
 
 == Installation ==
 
-1. Upload `878_hide_admin_bar.php` to the `wp-content/plugins/` directory
+1. Upload `sd3_hide_admin_bar.php` to the `wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enjoy!, there are no settings for this.
 
 == Changelog ==
+
+= 0.2.3 =
+* Confirmed working with 3.6
+* Corrected install info.
 
 = 0.2.3 =
 * Confirmed working with 3.4
